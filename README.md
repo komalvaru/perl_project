@@ -1,2 +1,2 @@
 # perl_project
- This project will help people for mailing service.
+ Perl script to compress a pedefined file and send it as a mail attachment
